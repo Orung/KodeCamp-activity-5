@@ -1,0 +1,201 @@
+body{
+    background-color: black;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.7;
+    margin: 0;
+}
+.profile-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.main-content{
+    margin:0 auto;
+    width:80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.article{
+    margin: 0 8rem;
+    color: #999999;
+}
+.hamburger{
+    margin: 1rem 0;
+}
+.title{
+    font-size: 4rem;
+    margin: 15px auto 0;
+    color:#f7d7c8;
+    font-weight: 900;
+}
+.profile-name{
+    color:#f7d7c8;
+    font-weight: 900;
+    font-size: larger; 
+}
+.center{
+    text-align: center;
+}
+.social-icons{
+    margin:30px 0;
+}
+.social-icons .twitter{
+    padding: 0 20px;
+}
+.collaborate{
+    font-size: 40px;
+    font-weight: 900;
+    color: #f7d7c8;
+    line-height: 1;
+}
+.dwell-section{
+    font-size: 20px;
+    font-weight: 900;
+    color: #f7d7c8;
+    line-height: 1.2;
+}
+.simple-headline{   
+    margin-right: 329px;
+    margin-bottom: 0;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+.about-me{
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+.align-justify{
+    text-align: justify;
+}
+.about-title,
+.about-content{
+    width: 50%;
+}
+.chat-now{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+.text-center{
+    text-align: center;
+}
+.margin{
+    margin: 8% 0;
+}
+.one{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: 8rem;
+}
+.design-par{
+    font-weight: 900;
+    font-size: 50px;
+    color: #f7d7c8;
+}
+.img-section{
+    display: flex;
+    gap: 5%;
+    margin-bottom:20px;
+}
+.portfolio-section {
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+.img-section img{
+    width: 250px;
+    height: 250px;
+    transition: all .5s ease;
+}
+
+.img-section img:hover {
+    transform: scale(1.1);
+}
+.button-padd{
+    margin: 3rem 0;
+}
+.arrow{
+    height: 70px;
+}
+.btn-learn{
+    text-decoration: none;
+    color: #f7d7c8;
+    border: 1px solid #f7d7c8;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 900;
+    margin: 60px auto;
+    padding: 20px 56px 20px 56px;
+}
+.btn-learn:hover{
+    background-color: #ffffff;
+    color: #000;
+}
+.view-portfolio{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 900;
+    color: #f7d7c8;
+    margin-top: 2px;
+}
+.display-flex{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+.width-50{
+    width: 50%;
+}
+.signature{
+    width: 182px;
+}
+.profile-img-width{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.text-center{
+    text-align: center;
+}
+.flex-all{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+}
+.bold-font{
+    font-size: 50px;
+    font-weight: 900;
+    margin: 0;
+}
+footer{
+    background-color: #333333;
+    padding: 3rem 0;
+    text-align: center;
+    margin: 0;
+    margin-top: 2rem;
+}
+.space-bottom{
+    margin-bottom: 3rem;
+}
+.location{
+    font-size: large;
+    margin:5px 0;
+    color:#f7d7c8;
+    font-weight: 900;
+}
+.color-pink{
+    color:#f7d7c8;
+    font-weight: 900;
+}
+.space-top{
+    margin-top: 5rem;
+}
